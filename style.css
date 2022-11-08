@@ -1,0 +1,49 @@
+body{
+  background-image: url(aesthetic\ bg2.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  }
+  .h1{
+      background-color: blueviolet;
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  canvas{
+      border:15px;
+      border-radius:20;
+      border-style: ridge;
+      border-color:pink;
+      background-color: white;
+  }
+  h5{
+      background-color: black;
+      color: aliceblue;
+      font-family:Arial;
+      width: 250px;
+    
+  }
+  input{
+      background-color: beige;
+      width:250px;
+      
+  }
+  button{
+      background-attachment: fixed;
+      background-color: black;
+      color: aliceblue;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 30px;
+  }
+  button:active{
+      background-color: antiquewhite;
+      color: black;
+      font-size: 35px;
+  }
+  h2{
+      background-color: bisque;
+  }
